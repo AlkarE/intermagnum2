@@ -1,0 +1,153 @@
+Новая заявка
+Дата/время: 13.03.2025 01:51
+ID клика: 
+Имя: asdasd
+Фамилия: asdasd
+Телефон: 56+56412909764
+Почта: test1@test.ru
+Ответ сервера: {"success":false,"error":null}
+
+Новая заявка
+Дата/время: 13.03.2025 01:57
+ID клика: 
+Имя: asdasd
+Фамилия: asdasd
+Телефон: 56+56412909764
+Почта: test1@test.ru
+Ответ сервера: {"success":true,"url":"https:\/\/my.g04rex.com\/redirect\/35645b6a568af790b7d983abce4b8824"}
+
+Новая заявка
+Дата/время: 20.03.2025 15:11
+ID клика: 
+Имя: Petr
+Фамилия: Olegov
+Телефон: 7+79186901963
+Почта: petrovich_010101@mail.ru
+Ответ сервера: {"success":false,"error":"Sorry! We do not service clients from your country."}
+
+Новая заявка
+Дата/время: 21.03.2025 11:09
+ID клика: 
+Имя: Oscar Antonio
+Фамилия: Riveros Greenes
+Телефон: 49+49995000482
+Почта: riveroso132@gmail.com
+Ответ сервера: {"success":false,"error":"Sorry! We do not service clients from your country."}
+
+Новая заявка
+Дата/время: 21.03.2025 11:09
+ID клика: 
+Имя: Oscar Antonio
+Фамилия: Riveros Greenes
+Телефон: 49+49995000482
+Почта: riveroso132@gmail.com
+Ответ сервера: {"success":false,"error":"Sorry! We do not service clients from your country."}
+
+Новая заявка
+Дата/время: 21.03.2025 11:09
+ID клика: 
+Имя: Oscar Antonio
+Фамилия: Riveros Greenes
+Телефон: 56+56995000482
+Почта: riveroso132@gmail.com
+Ответ сервера: {"success":true,"url":"https:\/\/my.g04rex.com\/redirect\/0568eaf91e2814b16e8ef05a80c9e4f0"}
+
+Новая заявка
+Дата/время: 21.03.2025 11:09
+ID клика: 
+Имя: Oscar Antonio
+Фамилия: Riveros Greenes
+Телефон: 56+56995000482
+Почта: riveroso132@gmail.com
+Ответ сервера: {"success":true,"url":"https:\/\/my.g04rex.com\/redirect\/0568eaf91e2814b16e8ef05a80c9e4f0"}
+
+Новая заявка
+Дата/время: 22.03.2025 06:47
+ID клика: 
+Имя: NÉSTOR ARTURO
+Фамилия: CAMPOS PIZARRO
+Телефон: 56+56964391187
+Почта: camposnestor999@gmail.com
+Ответ сервера: {"success":true,"url":"https:\/\/my.g04rex.com\/redirect\/28f1a5fd5728dac0fff13b737da4e625"}
+
+Новая заявка
+Дата/время: 22.03.2025 06:47
+ID клика: 
+Имя: NÉSTOR ARTURO
+Фамилия: CAMPOS PIZARRO
+Телефон: 56+56964391187
+Почта: camposnestor999@gmail.com
+Ответ сервера: {"success":true,"url":"https:\/\/my.g04rex.com\/redirect\/28f1a5fd5728dac0fff13b737da4e625"}
+
+Новая заявка
+Дата/время: 23.03.2025 12:25
+ID клика: 
+Имя: Name
+Фамилия: Surname
+Телефон: 49+49541234567
+Почта: test@tes123.com
+Ответ сервера: {"success":false,"error":"Sorry! We do not service clients from your country."}
+
+Новая заявка
+Дата/время: 23.03.2025 13:14
+ID клика: 
+Имя: Name
+Фамилия: Surname
+Телефон: 56+56441234567
+Почта: test@tes123.com
+Ответ сервера: {"success":true,"url":"https:\/\/my.g04rex.com\/redirect\/e35a3a99054c1ee46b27ae5c606978d0"}
+
+Новая заявка
+Дата/время: 26.03.2025 16:28
+ID клика: 
+Имя: fsadf
+Фамилия: Тест
+Телефон: 49+4989999999999
+Почта: test@test.ru
+Ответ сервера: {"success":true,"url":"/"}
+
+Новая заявка
+Дата/время: 26.03.2025 19:01
+ID клика: 
+Имя: sdfdsf
+Фамилия: sdfdsfdsf
+Телефон: 49+49203307695
+Почта: fdsfd@gmail.com
+Ответ сервера: {"success":true,"url":"/"}
+
+Новая заявка
+Дата/время: 26.03.2025 19:01
+ID клика: 
+Имя: sdfdsf
+Фамилия: sdfdsfdsf
+Телефон: 49+49203307695
+Почта: fdsfd@gmail.com
+Ответ сервера: {"success":false,"error":"Spam filter"}
+
+Новая заявка
+Дата/время: 27.03.2025 03:12
+ID клика: 
+Имя: Jorge antonio 
+Фамилия: Pavez
+Телефон: 49+49942935912
+Почта: pavezpobletej@gmail.com
+Ответ сервера: {"success":true,"url":"/"}
+
+Новая заявка
+Дата/время: 27.03.2025 03:12
+ID клика: 
+Имя: Jorge antonio 
+Фамилия: Pavez
+Телефон: 49+49942935912
+Почта: pavezpobletej@gmail.com
+Ответ сервера: {"success":true,"url":"/"}
+
+Новая заявка
+Дата/время: 27.03.2025 05:15
+ID клика: 
+Имя: José Luis Ramiro 
+Фамилия: Palomera Salgado 
+Телефон: 56+56987550171
+Почта: palomeraj647@gmail.com
+Ответ сервера: {"success":true,"url":"/"}
+
