@@ -961,7 +961,7 @@ a.banner-play-btn {
 
 section.about_area.style_four {
   background: transparent;
-  padding: 165px 0 120px;
+  padding: 100px 0 120px;
 }
 section.about_area.style_four .about_play.style_three {
   right: 13%;
@@ -4602,7 +4602,7 @@ section.testimonial_area.style_three {
 ============================================================ */
 
 section.contact_area {
-  padding: 118px 0 217px;
+  padding: 118px 0 130px;
   position: relative;
   margin-top: -170px;
   z-index: 5;
