@@ -380,6 +380,47 @@
 	<!-- Start advisar Feature Area Style sixs-->
 	<!--==================================================-->
 
+	<style>
+		/* CSS for video container */
+		.video-container {
+			position: relative;
+			width: 100%;
+			padding-top: 57%;
+			/* 4:3 aspect ratio (height / width * 100) */
+			overflow: hidden;
+			background-color: #000;
+			/* Fallback background color */
+		}
+
+		.video-container video {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			width: 100%;
+			height: 100%;
+			object-fit: contain;
+			/* Ensures video covers the container without distortion */
+		}
+	</style>
+	<section class="video-4x3 about_area style_four">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section_title pb-50 text-center">
+						<h1>Descubre más sobre las perspectivas de inversión con Intermagnum</h1>
+					</div>
+					<div class="video-container">
+						<video autoplay muted loop>
+							<source src="video_logo.mp4" type="video/mp4">
+							Your browser does not support the video tag.
+						</video>
+					</div </div>
+				</div>
+			</div>
+	</section>
+
+
 	<section class="feature_area style_sixs">
 		<div class="container">
 			<div class="row">
