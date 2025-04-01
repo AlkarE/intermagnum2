@@ -412,6 +412,36 @@
 			line-height: 1.2em;
 		}
 
+		.unmute-btn {
+			position: absolute;
+			bottom: 20px;
+			right: 20px;
+			transform: translateX(-50%);
+			background-color: rgba(0, 0, 0, 0.7);
+			color: white;
+			border: none;
+			padding: 10px 15px;
+			font-size: 20px;
+			cursor: pointer;
+			border-radius: 50%;
+			/* Circular button */
+			z-index: 10;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			width: 50px;
+			height: 50px;
+		}
+
+		.unmute-btn:hover {
+			background-color: rgba(0, 0, 0, 0.9);
+		}
+
+		/* Icon size */
+		.unmute-btn i {
+			font-size: 24px;
+		}
+
 		@media (min-width: 576px) {
 			.video-4x3 h2 {
 				font-size: 25px;
@@ -446,16 +476,41 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="section_title text-center">
-						<h2>Descubre más sobre las perspectivas de inversión con Intermagnum</h2>
+						<h2>¿Cómo operar minerales desde casa? La respuesta está a 40 segundos de ti.</h2>
 					</div>
 					<div class="video-container">
-						<video autoplay muted loop>
+						<video id="videoPlayer" autoplay muted loop>
 							<source src="video_logo.mp4" type="video/mp4">
 							Your browser does not support the video tag.
 						</video>
+						<button class="unmute-btn" id="unmuteButton">
+							<i class="fas fa-volume-mute"></i>
+						</button>
 					</div </div>
 				</div>
 			</div>
+			<script>
+				document.addEventListener('DOMContentLoaded', () => {
+					// Select the video and button elements
+					const videoPlayer = document.getElementById('videoPlayer');
+					const unmuteButton = document.getElementById('unmuteButton');
+					const icon = unmuteButton.querySelector('i'); // Get the icon inside the button
+
+					// Add click event listener to the button
+					unmuteButton.addEventListener('click', () => {
+						if (videoPlayer.muted) {
+							videoPlayer.muted = false; // Unmute the video
+							icon.classList.remove('fa-volume-mute'); // Remove muted icon
+							icon.classList.add('fa-volume-high'); // Add unmuted icon
+						} else {
+							videoPlayer.muted = true; // Mute the video
+							icon.classList.remove('fa-volume-high'); // Remove unmuted icon
+							icon.classList.add('fa-volume-mute'); // Add muted icon
+						}
+					});
+				});
+
+			</script>
 	</section>
 
 
